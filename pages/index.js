@@ -96,7 +96,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2020</BioYear>
-          Got chanced to be a cadet (8th over Bangladesh) , but resigned.
+          Got chanced to be a cadet  , but resigned.
         </BioSection>
         <BioSection>
           <BioYear>2021</BioYear>
