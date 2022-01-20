@@ -93,11 +93,7 @@ const Home = () => (
         <BioSection>
           <BioYear>2018</BioYear>
           Joined the chattogram collegiate school (the best school in bangladesh)
-        </BioSection>
-        <BioSection>
-          <BioYear>2020</BioYear>
-          Got chanced to be a cadet  , but resigned.
-        </BioSection>
+       
         <BioSection>
           <BioYear>2021</BioYear>
           Started programming for the first time.. 
