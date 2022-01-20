@@ -70,7 +70,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Farhan is a web and python develope and a blockchain developer, with a
+          Farhan is a web and python developer and a blockchain developer, with a
           passion for building digital services/stuff he wants. He has a knack
           for all things launching products, from planning and designing all the
           way to solving real-life problems with code. When not online, he loves
@@ -92,7 +92,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2018</BioYear>
-          Joined the chattogram collegiate school (the best school in bangladesh)
+          Joined the chattogram collegiate school (one of the best school in bangladesh)
         </BioSection>
        
         <BioSection>
