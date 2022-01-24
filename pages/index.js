@@ -131,17 +131,7 @@ const Home = () => (
               </Button>
             </Link>
           </ListItem>
-          <ListItem>
-            <Link href="https://www.facebook.com/farhana.yasmin.97607547948" target="_blank">
-              <Button
-                variant="ghost"
-                colorScheme="teal"
-                leftIcon={<Icon as={IoLogoFacebook} />}
-              >
-                @farhana.easmin (my_mom's account)
-              </Button>
-            </Link>
-          </ListItem>
+         
           <ListItem>
             <Link href="https://www.linkedin.com/in/farhan-ibne-saif-b752ab221/" target="_blank">
               <Button
